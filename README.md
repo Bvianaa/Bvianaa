@@ -3,7 +3,7 @@
 ###
 
 <p align="center">Analista de Dados e Desenvolvedor.</p>
-<p align="center">Se quiser conhecer mais, entre no meu <a href="https://Bvianaa.github.io/Portifolio/">portfolio</a></p>
+<p align="center">Se quiser conhecer mais, entre no meu <a href="https://Bvianaa.github.io/Portifolio/">portfolio</a> (em desenvolvimento)</p>
 
 
 ###
