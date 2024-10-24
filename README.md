@@ -2,9 +2,7 @@
 
 ###
 
-<p align="center">Analista de Dados e Desenvolvedor.</p>
-<p align="center">Se quiser conhecer mais, entre no meu <a href="https://Bvianaa.github.io/Portifolio/">portfolio</a> (em desenvolvimento)</p>
-
+<h2 align="center">Analista de Dados e Desenvolvedor.</h2>
 
 ###
 
@@ -17,10 +15,6 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
 </div>
-
-###
-
-<img align="right" height="60" src="https://media.giphy.com/media/10MK0CiH2CPMoE/giphy.gif"  />
 
 ###
 
