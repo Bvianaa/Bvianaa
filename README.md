@@ -44,3 +44,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Bvianaa/Bvianaa/output/snake.svg" alt="Snake animation" />
+
+###
